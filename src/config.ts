@@ -7,5 +7,5 @@ export const authConfig = {
   // domain: 'dev-nd9990-p4.us.auth0.com',
   domain: 'dev-8b0fovvy.us.auth0.com',            // Auth0 domain
   clientId: '4Owg6QtJsHke87medLYUUzKdq99tayB3',          // Auth0 client id
-  callbackUrl: "https://classic-k.github.io/callback"
+  callbackUrl: "https://classic-k.github.io/Udagram-Todo-Client/callback"
 }
