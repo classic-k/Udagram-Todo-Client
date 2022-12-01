@@ -2,7 +2,7 @@
   "name": "typescript-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://classic-k.github.io/Udagram-Todo-Client",
+  "homepage": "http://todoserverlesss3buc.s3-website-us-east-1.amazonaws.com",
   "dependencies": {
     "axios": "^0.21.1",
     "dateformat": "^3.0.3",
